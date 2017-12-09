@@ -1,2 +1,2 @@
 # Spyders
-Python spyders
+Python spyders (first time;homework of MSC)
